@@ -1,10 +1,10 @@
 # Email Campaign Effectiveness Prediction (Classification)
 
 # Deployment:
-![Screenshot 2024-10-10 231705](https://github.com/user-attachments/assets/fdaf92ee-47b0-4169-85bc-33f0012c8746)
 The project has been deployed on Streamlit for real-time predictions.
 You can access the app here.(Please wait it may take some time):
 https://email-campaign-effectiveness-prediction.streamlit.app/
+![Screenshot 2024-10-10 231705](https://github.com/user-attachments/assets/fdaf92ee-47b0-4169-85bc-33f0012c8746)
 
 # Problem Statement:
 The goal of this project is to predict how customers will respond to email campaigns by classifying whether an email will be ignored, read, or acknowledged. This helps businesses optimize marketing strategies and improve engagement rates.
